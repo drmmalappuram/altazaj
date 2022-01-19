@@ -8,7 +8,7 @@ const RESOURCES = {
 "assets/assets/samsung.jpeg": "b7fda09798fc2676f338a4bc3aefb734",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "11764b771e9c334f7593ea97de4f14d9",
+"assets/NOTICES": "69e3e57373dd837bff433d80be904b0c",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "canvaskit/canvaskit.js": "43fa9e17039a625450b6aba93baf521e",
 "canvaskit/canvaskit.wasm": "04ed3c745ff1dee16504be01f9623498",
@@ -16,7 +16,7 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.wasm": "a9610cf39260f60fbe7524a785c66101",
 "index.html": "6b993fcd1877d9d65f369192bcbe6824",
 "/": "6b993fcd1877d9d65f369192bcbe6824",
-"main.dart.js": "0ef9376ce4a5a1541a5e1883bfc7e615",
+"main.dart.js": "16344373e61dfba793f4896db8cfcb8f",
 "version.json": "3ef8744c286f158cc011281abc4784ad"
 };
 
