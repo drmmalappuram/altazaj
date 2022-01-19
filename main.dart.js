@@ -55836,7 +55836,7 @@ $2(a,b){var s=null,r=this.a,q=t.Ma
 return new A.mN(new A.BE(new A.zc(B.j,new A.qi("box.png"),s),A.a8j(A.b([A.abP(A.oM(J.aQ(r.d,b).a+" ",A.ka(s,s,B.m,s,s,s,s,s,"Arial",s,s,20,B.cI,B.cJ,s,s,!0,s,s,s,s,s,s,s,s)))],q),B.cE,B.dj),A.a8j(A.b([A.abP(A.oM(J.aQ(r.d,b).d,s))],q),B.cE,B.dj),A.oM("\u20b9 "+J.aQ(r.d,b).b,A.ka(s,s,B.m,s,s,s,s,s,"Arial",s,s,25,B.cI,B.cJ,s,s,!0,s,s,s,s,s,s,s,s)),s),s)},
 $S:328}
 A.C1.prototype={
-M(a,b){var s="Flutter Google Sheet Demo"
+M(a,b){var s="Al Tazaj Chicken Stall"
 return A.acm(new A.tk(s,null),A.a8x(null,B.dl),s)}}
 A.tk.prototype={
 aP(){return new A.Iy(new A.by(null,t.Jv),new A.by(null,t.fS),A.ZZ(),A.ZZ(),A.ZZ(),A.ZZ(),B.l)}}
