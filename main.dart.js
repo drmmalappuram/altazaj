@@ -56633,7 +56633,7 @@ q=A.Xe(A.b([A.acH(A.hL(J.aR(r.d,b).d,A.f1(s,s,A.z(new A.v(4294901760),new A.v(42
 return new A.mT(B.bT,!0,A.hb(s,new A.BL(A.and(new A.rH(A.aoZ(s,s,new A.nN(J.aR(r.d,b).c,1)),1000,1000,B.tT,s)),p,q,A.hL("\u20b9 "+J.aR(r.d,b).b,A.f1(s,s,B.m,s,s,s,s,s,"Arial",s,s,25,B.c0,B.cO,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),s,s,s,s,s),s)},
 $S:346}
 A.C5.prototype={
-N(a,b){return A.adg(new A.tA("AL Tazaj Chicken Stall",null),A.a9p(null,B.ds),"Flutter Google ")}}
+N(a,b){return A.adg(new A.tA("AL Tazaj Chicken Stall",null),A.a9p(null,B.ds),"AL Tazaj ")}}
 A.tA.prototype={
 aQ(){return new A.IP(new A.bC(null,t.Jv),new A.bC(null,t.fS),A.a_r(),A.a_r(),A.a_r(),A.a_r(),B.l)}}
 A.IP.prototype={
