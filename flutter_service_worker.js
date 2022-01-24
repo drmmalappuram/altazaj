@@ -7,7 +7,7 @@ const RESOURCES = {
 "assets/assets/AlTazaj.jpg": "8887f337e347484c72b3558925e743cf",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "69e3e57373dd837bff433d80be904b0c",
+"assets/NOTICES": "cf7ff8dd1d58c3e9425ac1c1e146ff26",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "canvaskit/canvaskit.js": "43fa9e17039a625450b6aba93baf521e",
 "canvaskit/canvaskit.wasm": "04ed3c745ff1dee16504be01f9623498",
@@ -15,7 +15,7 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.wasm": "a9610cf39260f60fbe7524a785c66101",
 "index.html": "2f1812c8a9496fc0d222139c6c2785d7",
 "/": "2f1812c8a9496fc0d222139c6c2785d7",
-"main.dart.js": "d38780e9c25a5317b0a8e2549f1f0c78",
+"main.dart.js": "e1a002556fdd6aa86e2177271c59892b",
 "version.json": "3ef8744c286f158cc011281abc4784ad"
 };
 
