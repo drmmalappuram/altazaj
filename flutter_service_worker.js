@@ -3,9 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "2d192dce093bb5fd4534929150340362",
-"assets/assets/box.png": "9a23e66e41460c0b2cc4ccbb8c3fffdf",
-"assets/assets/samsung.jpeg": "b7fda09798fc2676f338a4bc3aefb734",
+  "assets/AssetManifest.json": "fb896eb506aa473bbfe6a310c86af70c",
+"assets/assets/AlTazaj.jpg": "8887f337e347484c72b3558925e743cf",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/NOTICES": "69e3e57373dd837bff433d80be904b0c",
@@ -14,9 +13,9 @@ const RESOURCES = {
 "canvaskit/canvaskit.wasm": "04ed3c745ff1dee16504be01f9623498",
 "canvaskit/profiling/canvaskit.js": "f3bfccc993a1e0bfdd3440af60d99df4",
 "canvaskit/profiling/canvaskit.wasm": "a9610cf39260f60fbe7524a785c66101",
-"index.html": "0702fa36f9ca09728bd7f75eeee96876",
-"/": "0702fa36f9ca09728bd7f75eeee96876",
-"main.dart.js": "0d38cb34eb0201d935630441dbe0a59b",
+"index.html": "2f1812c8a9496fc0d222139c6c2785d7",
+"/": "2f1812c8a9496fc0d222139c6c2785d7",
+"main.dart.js": "d38780e9c25a5317b0a8e2549f1f0c78",
 "version.json": "3ef8744c286f158cc011281abc4784ad"
 };
 
