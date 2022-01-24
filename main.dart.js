@@ -56802,7 +56802,7 @@ q=A.a9i(A.b([A.acO(A.ma(J.aR(r.d,b).d,A.iX(s,s,A.z(new A.y(4294901760),new A.y(4
 return new A.mW(B.bS,!0,A.ib(s,new A.BM(A.ano(new A.no(A.ae7(s,s,new A.nQ(J.aR(r.d,b).c,1)),1000,1000,B.tS,s)),p,q,A.ma("\u20b9 "+J.aR(r.d,b).b,A.iX(s,s,B.m,s,s,s,s,s,"Arial",s,s,25,B.bZ,B.cM,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),s,s,s,s,s),s)},
 $S:347}
 A.C6.prototype={
-N(a,b){return A.adn(new A.tB("AL Tazaj Chicken Stall",null),A.a9w(null,B.dr),"Flutter Google ")}}
+N(a,b){return A.adn(new A.tB("AL Tazaj Chicken Stall",null),A.a9w(null,B.dr),"Al Tazaj Chicken Stall")}}
 A.tB.prototype={
 aQ(){return new A.IQ(new A.bA(null,t.Jv),new A.bA(null,t.fS),A.a_w(),A.a_w(),A.a_w(),A.a_w(),B.l)}}
 A.IQ.prototype={
